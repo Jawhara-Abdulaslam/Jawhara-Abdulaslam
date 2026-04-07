@@ -23,7 +23,9 @@
 
 I am an Artificial Intelligence Engineer passionate about building **real-world AI systems** and **data-driven applications**.
 
-- 🤖 Machine Learning & Predictive Systems  
+- AI automation & Agents
+‏
+- 🤖Deep & Machine Learning & Predictive Systems  
 - 📊 Data Analysis & Business Intelligence  
 - 🌐 AI Web Applications  
 - 📱 Mobile App Development  
