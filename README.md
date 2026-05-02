@@ -1,6 +1,6 @@
 # Jawhara-Abdulaslam-
 
-<h1 align="center">Jawhara Abdulsalam </h1>
+<h1 align="center">Hi, I'm Jawhara Abdulsalam </h1>
 <h3 align="center">AI Engineer | Machine Learning | Data Science</h3>
 
 <p align="center">
@@ -36,15 +36,21 @@ I am an Artificial Intelligence Engineer passionate about building **real-world 
 
 ## 🚀 Tech Stack
 
-### 👩‍💻 Languages  
+### 👩‍💻 Programming Languages  
 Python | Dart | JavaScript | SQL  
 
 ### 🤖 AI / Data  
-Machine Learning | Data Analysis | Predictive Modeling | Visualization  
+Machine Learning | Deep Learning | Computer Vision | NLP | Predictive Modeling | Data Analysis | Predictive Modeling | Visualization | AI agent  
 
-### ⚙️ Tools  
-Flask | Power BI | Jupyter | Flutter  
+### ⚙️ Frameworks & Libraries
+PyTorch | TensorFlow | Scikit-Learn | Pandas | NumPy | NLTK | SpaCy | Flask
 
+🗄️ Databases
+PostgreSQL | MySQL | Supabase | Firebase | Oracle
+
+☁️ Tools & Cloud
+AWS | Docker | Git | CI/CD | Oracle APEX
+ 
 ---
 
 ## 📂 Featured Projects
@@ -166,3 +172,21 @@ Flask | Power BI | Jupyter | Flutter
 + Solve real-world problems
 + Think in scalable solutions
 + Combine creativity with technology
+
+📚 Forum Books – Library System
+Built Oracle APEX app for managing books and users
+🍕 Pizza Order System
+Java desktop app with dynamic pricing and GUI
+📊 GitHub Stats
+Hussein's GitHub stats
+
+🔥 Top Languages
+Top Langs
+
+📫 Contact Me
+📧 Email: Jawhara-Abdulsalam@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/jawhara-abdulsalam-8663aa365
+🌐 Portfolio: https://Jawhara-Abdulsalam.netlify.app/
+
+⚡ Fun Fact
+I love turning complex AI ideas into real-world intelligent systems 🚀>
